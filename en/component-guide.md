@@ -170,13 +170,13 @@ shell> sudo systemctl restart mysqld
 
 ### Connect to MySQL
 
-After creating an instance, initially connect to MariaDB as follows.
+After creating an instance, initially connect to MySQL as follows.
 
 ``` sh
 shell> mysql -u root
 ```
 
-After changing the password, connect to MariaDB as follows.
+After changing the password, connect to MySQL as follows.
 
 ``` sh
 shell> mysql -u root -p
